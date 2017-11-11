@@ -37,7 +37,8 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="25"
-                    android:layout_marginStart="25dp">
+                    android:layout_marginStart="25dp"
+                    android:layout_marginTop="20dp">
 
                     <de.hdodenhof.circleimageview.CircleImageView
                         android:layout_width="80dp"
